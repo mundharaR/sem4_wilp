@@ -1,0 +1,26 @@
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+https://chocolatey.org/install
+
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
+
+
+
+https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build
+
+
+Project name
+wilp-cloud-management
+Project number
+252450585743
+Project ID
+wilp-cloud-management
+
+
+
+https://cloud.google.com/sdk/docs/install  - gcloud
+
+
+
+
+
